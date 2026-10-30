@@ -1,36 +1,31 @@
-  Projeto Peónia | Aplicativo de Apoio ao Pós-Parto
+# 💜 Nana — Um Abraço em Forma de Tecnologia
 
-<div align="center">
-  
-> *"Tecnologia com alma de acolhimento. Acreditamos que a programação e o design não servem apenas para rodar linhas de código, mas para estender a mão a quem precisa de um abraço em forma de tecnologia."*
-
-  <p>Desenvolvido com ❤️ pelo Time Peónia para o DemoDay - Instituto Proa</p>
-</div>
+> Tecnologia humanizada, acolhimento nas madrugadas e proteção para a saúde materno-infantil.
 
 ---
 
-## 👥 Conheça o Time Peónia
-Nós somos o **Time Peónia**! Delicadas na escuta, fortes na execução. Assim como a flor que nos dá nome, desabrochamos diante dos desafios. Cada integrante traz uma força complementar (o código em Kotlin, o design sensível, a gestão estratégica), formando uma verdadeira rede de apoio mútua.
+## 📌 Sobre o Projeto
+O *Nana* é um aplicativo mobile focado no acolhimento, na escuta ativa e na segurança de mães no pós-parto e na gestação, com especial atenção ao combate à violência obstétrica e às iniquidades raciais no sistema de saúde. O projeto nasceu da necessidade real de apoiar mulheres em momentos de vulnerabilidade, exaustão física e solidão nas madrugadas, garantindo que suas vozes e seus direitos sejam respeitados.
 
 ---
 
-## 💎 Nossos Valores (O que nos move e guia o nosso código)
+## 📱 Principais Funcionalidades (O que o app oferece)
 
-| Valor | O que significa na prática |
-| :--- | :--- |
-| 🌱 **Empatia Ativa** | Ouvir e sentir a dor real da mãe antes de tomar qualquer decisão técnica ou de design. O usuário vem sempre em primeiro lugar. |
-| 💪 **Resiliência e Força** | Assim como a flor peônia que desabrocha com beleza mesmo diante de desafios, nossa equipe se uniu para superar bugs, prazos e os complexos desafios de programar um app robusto. |
-| 🤝 **Colaboração Transparente** | Garantimos a sintonia fina entre o design sensível e o desenvolvimento técnico, onde todo mundo se apoia, divide os pesos e multiplica as conquistas. |
-| ✨ **Propósito com Impacto** | Desenvolver uma tecnologia que transforma a realidade, trazendo alívio, informação segura e companhia para mulheres em um dos momentos mais vulneráveis de suas vidas. |
-
-
-
-## 🛠️ Tecnologias e Arquitetura
-* **Linguagem:** Kotlin 
-* **Plataforma:** Android
-* **Metodologia:** Ágil (Gestão de Backlog e Sprints pela visão de PO)
+* *🌙 Modo Madrugada:* Uma interface de luz baixa e tons quentes, desenvolvida para ser operada com apenas uma mão enquanto a mãe amamenta, acompanhada de sons suaves para acalmar o bebê e proteger o sono.
+* *📓 Diário de Rotina e Sintomas:* Um espaço seguro e sem julgamentos para registrar humor, dores e sinais físicos do dia a dia, transformando o cotidiano em relatórios claros para as consultas médicas.
+* *⚖️ Guia de Direitos e Plano de Parto:* Ferramentas para empoderar a parturiente, garantindo o conhecimento prévio dos seus direitos legais e o respeito à sua autonomia nos hospitais.
+* *🚨 Apoio de Emergência e Rede de Afeto:* Acesso rápido ao CVV (Centro de Valorização da Vida) e a contatos de confiança para os momentos de sobrecarga emocional severa.
 
 ---
-<div align="center">
-  <sub>Feito com amor pela Equipe Peónia.</sub>
-</div>
+
+## 💡 Modelo de Monetização e Impacto (Selo ESG)
+Para manter a gratuidade do aplicativo para as mulheres que mais precisam, o Nana adota um modelo sustentável:
+* *Freemium & Premium:* Recursos essenciais gratuitos para todas as mães, com ferramentas avançadas sob assinatura.
+* *Selo Empresa Amiga da Mãe (B2B / ESG):* Empresas e parceiros corporativos adquirem o selo de responsabilidade social ao apoiarem o projeto, financiando o acesso gratuito à plataforma para mulheres em situação de vulnerabilidade e promovendo a equidade racial na saúde.
+
+---
+
+## 🚀 Como Executar o Projeto
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/projeto-nana.git](https://github.com/seu-usuario/projeto-nana.git)
