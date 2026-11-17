@@ -1,11 +1,11 @@
-# 💜 Nana — Um Abraço em Forma de Tecnologia
+# 💜 Nanã — Acolhendo quem acolhe
 
 > Tecnologia humanizada, acolhimento nas madrugadas e proteção para a saúde materno-infantil.
 
 ---
 
 ## 📌 Sobre o Projeto
-O *Nana* é um aplicativo mobile focado no acolhimento, na escuta ativa e na segurança de mães no pós-parto e na gestação, com especial atenção ao combate à violência obstétrica e às iniquidades raciais no sistema de saúde. O projeto nasceu da necessidade real de apoiar mulheres em momentos de vulnerabilidade, exaustão física e solidão nas madrugadas, garantindo que suas vozes e seus direitos sejam respeitados.
+A *Nanã* é um aplicativo mobile focado no acolhimento, na escuta ativa e na segurança de mães no pós-parto e na gestação, com especial atenção ao combate à violência obstétrica e às iniquidades raciais no sistema de saúde. O projeto nasceu da necessidade real de apoiar mulheres em momentos de vulnerabilidade, exaustão física e solidão nas madrugadas, garantindo que suas vozes e seus direitos sejam respeitados.
 
 ---
 
