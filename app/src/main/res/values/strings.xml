@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nanã</string>
+
+    <!-- Comuns -->
+    <string name="voltar">Voltar</string>
+    <string name="opcional">(opcional)</string>
+    <string name="proxima_etapa_aviso">Esta área será apresentada na próxima etapa do Nanã.</string>
+    <string name="passo_x_de_y">Passo %1$d de %2$d</string>
+    <string name="indicador_pagina">Página %1$d de %2$d</string>
+
+    <!-- 01 Boas-vindas -->
+    <string name="bv_marca">nanã</string>
+    <string name="bv_texto">A maternidade também é sua.\nInformação, acolhimento e rede de apoio em todas as fases.</string>
+    <string name="bv_comecar">Começar</string>
+    <!-- Descrições para leitor de tela: ajuste conforme as imagens enviadas. -->
+    <string name="ilustracao_boas_vindas">Ilustração de boas-vindas do Nanã.</string>
+    <string name="ilustracao_proposito">Ilustração do propósito do Nanã.</string>
+
+    <!-- 02 Propósito -->
+    <string name="prop_titulo_1">Mais do que um app,</string>
+    <string name="prop_titulo_2">o Nanã é uma rede de cuidado.</string>
+    <string name="prop_texto">Aqui a sua história importa.\nVocê encontra:</string>
+    <string name="prop_acolhimento">Acolhimento</string>
+    <string name="prop_informacao">Informação</string>
+    <string name="prop_comunidade">Comunidade</string>
+    <string name="prop_profissionais">Profissionais de saúde</string>
+    <string name="prop_direitos">Direitos e autonomia</string>
+    <string name="continuar">Continuar</string>
+
+    <!-- 03 Funcionalidades -->
+    <string name="func_titulo">Tudo o que você precisa, em um só lugar.</string>
+    <string name="func_conteudos">Conteúdos</string>
+    <string name="func_conteudos_desc">Informação confiável, em linguagem simples</string>
+    <string name="func_comunidade">Comunidade</string>
+    <string name="func_comunidade_desc">Outras mulheres que entendem você</string>
+    <string name="func_profissionais">Profissionais</string>
+    <string name="func_profissionais_desc">Cuidado de saúde com respeito</string>
+    <string name="func_diario">Diário</string>
+    <string name="func_diario_desc">Um espaço para dizer como você está</string>
+    <string name="func_limites_titulo">Bom saber</string>
+    <string name="func_limites_texto">O Nanã não substitui o acompanhamento com profissionais de saúde. Você escolhe o que quer compartilhar, e no cadastro explicamos por que cada informação é pedida.</string>
+    <string name="func_cadastrar">Quero me cadastrar</string>
+
+    <!-- 04a Cadastro: nome -->
+    <string name="cad_nome_titulo">Vamos nos conhecer?</string>
+    <string name="cad_nome_texto">Para personalizar sua experiência, precisamos de poucas informações.</string>
+    <string name="cad_privacidade_titulo">Seus dados, suas escolhas</string>
+    <string name="cad_privacidade_texto">Vamos perguntar, em 3 passos curtos: nome, idade, cidade, fase da maternidade, interesses, nome do bebê, quantidade de filhos e autodeclaração racial. Campos marcados como opcionais podem ficar em branco. Nesta versão, suas respostas ficam salvas apenas neste aparelho e ninguém mais tem acesso a elas.</string>
+    <string name="cad_nome_label">Como você gosta de ser chamada?</string>
+    <string name="cad_nome_ajuda">Usamos só para falar com você. Pode ser um apelido, não precisa ser o nome completo.</string>
+    <string name="cad_nome_placeholder">Seu nome</string>
+    <string name="cad_idade_label">Idade</string>
+    <string name="cad_idade_ajuda">Ajuda a adaptar a forma como conversamos com você.</string>
+    <string name="cad_idade_placeholder">Idade</string>
+    <string name="cad_cidade_label">Cidade</string>
+    <string name="cad_cidade_ajuda">Para apoiar buscas por profissionais perto de você. Sua cidade não aparece para outras pessoas.</string>
+    <string name="cad_cidade_placeholder">Cidade</string>
+    <string name="proximo">Próximo</string>
+    <string name="erro_campo_obrigatorio">Precisamos desta informação para continuar.</string>
+
+    <!-- 04b Cadastro: momento -->
+    <string name="cad_momento_titulo">Em que momento você está?</string>
+    <string name="cad_momento_ajuda">Usamos a fase para escolher os conteúdos da sua tela inicial.</string>
+    <string name="erro_fase">Escolha uma das opções para continuarmos.</string>
+    <string name="fase_gestacao">Gestação (preparação)</string>
+    <string name="fase_0_45">Pós-parto inicial (0 a 45 dias após o parto)</string>
+    <string name="fase_46_6m">Pós-parto (46 dias a 6 meses)</string>
+    <string name="fase_6m_1a">Maternidade (6 meses a 1 ano)</string>
+    <string name="fase_1a_2a">Maternidade (1 a 2 anos)</string>
+
+    <!-- 04c Cadastro: perfil -->
+    <string name="cad_perfil_titulo">O que você quer encontrar aqui?</string>
+    <string name="cad_interesses_ajuda">Ajuda a priorizar assuntos. Escolha quantos quiser, ou nenhum.</string>
+    <string name="int_amamentacao">Amamentação</string>
+    <string name="int_saude_mental">Saúde mental</string>
+    <string name="int_meus_direitos">Meus direitos</string>
+    <string name="int_sono_bebe">Sono do bebê</string>
+    <string name="int_rede_apoio">Rede de apoio</string>
+    <string name="int_parto">Parto</string>
+    <string name="cad_bebe_label">Nome do bebê ou dos bebês</string>
+    <string name="cad_bebe_ajuda">Se quiser, para personalizar sua experiência. Pode ser um apelido.</string>
+    <string name="cad_bebe_placeholder">Se já tiver escolhido</string>
+    <string name="cad_filhos_label">Quantidade de filhos</string>
+    <string name="cad_filhos_ajuda">Ajuda a adequar conteúdos à sua família. Toque de novo para desmarcar.</string>
+    <string name="filhos_1">1º filho</string>
+    <string name="filhos_2">2</string>
+    <string name="filhos_3">3 ou mais</string>
+    <string name="cad_raca_label">Como você se identifica?</string>
+    <string name="cad_raca_ajuda">O Nanã é dedicado ao cuidado de mães negras e à equidade racial na saúde. A resposta é sua: nunca deduzimos raça por foto, nome ou aparência. Toque de novo para desmarcar.</string>
+    <string name="raca_preta">Preta</string>
+    <string name="raca_parda">Parda</string>
+    <string name="raca_prefiro_nao">Prefiro não dizer</string>
+    <string name="cad_perfil_nota">Perguntamos para que os conteúdos e a comunidade reflitam a sua realidade.</string>
+    <string name="cad_entrar">Entrar no Nanã</string>
+
+    <!-- 05 Início -->
+    <string name="ini_ola_nome">Oi, %1$s</string>
+    <string name="ini_ola">Oi!</string>
+    <string name="ini_texto">Que bom ter você aqui.\nComo você está hoje?</string>
+    <string name="ini_humor_resposta">Obrigada por contar. Todo sentimento é bem-vindo aqui.</string>
+    <string name="humor_bem">Bem</string>
+    <string name="humor_calma">Calma</string>
+    <string name="humor_ansiosa">Ansiosa</string>
+    <string name="humor_cansada">Cansada</string>
+    <string name="humor_triste">Triste</string>
+    <string name="ini_momento_titulo">Para o seu momento</string>
+    <string name="ini_momento_desc">Conteúdos escolhidos para você: %1$s</string>
+    <string name="ini_seus_interesses">Assuntos que você escolheu</string>
+    <string name="ini_comunidade_titulo">Sua comunidade</string>
+    <string name="ini_comunidade_desc">Mulheres como você, perto de você</string>
+    <string name="ini_direitos_titulo">Seus direitos</string>
+    <string name="ini_direitos_desc">Saiba o que você pode pedir</string>
+    <string name="nav_inicio">Início</string>
+    <string name="nav_diario">Diário</string>
+    <string name="nav_direitos">Direitos</string>
+    <string name="nav_apoio">Apoio</string>
+    <string name="nav_perfil">Perfil</string>
+
+    <!-- 07 Direitos -->
+    <string name="dir_titulo">Direitos</string>
+    <string name="dir_apoio">Conheça o que a lei garante a você na gestação, no parto e no pós-parto.</string>
+    <string name="dir_busca">Campo de busca</string>
+    <string name="dir_lista_temas">Lista de temas</string>
+    <string name="dir_sem_resultado">Nenhum tema encontrado para essa busca.</string>
+
+    <!-- Tema: acompanhante -->
+    <string name="dir_acomp_titulo">Direito a Acompanhante</string>
+    <string name="dir_acomp_desc">Acompanhante e doula no parto</string>
+    <string name="dir_acomp_1_titulo">Lei do Acompanhante</string>
+    <string name="dir_acomp_1_selo">Lei nº 11.108/2005</string>
+    <string name="dir_acomp_1_texto">Toda mulher tem o direito a um acompanhante de sua livre escolha durante todo o período de trabalho de parto, parto e pós-parto imediato, tanto no SUS quanto em hospitais particulares. O hospital não pode proibir a presença nem limitar o horário.</string>
+    <string name="dir_acomp_2_titulo">Presença de doula</string>
+    <string name="dir_acomp_2_selo">Legislações locais</string>
+    <string name="dir_acomp_2_texto">Em diversas cidades e estados, legislações específicas também garantem o direito à presença de doula (profissional de suporte físico e emocional), de forma acumulada com o acompanhante de livre escolha.</string>
+
+    <!-- Tema: dignidade -->
+    <string name="dir_dign_titulo">Dignidade, Respeito e Consentimento Informado</string>
+    <string name="dir_dign_desc">Respeito e consentimento no parto</string>
+    <string name="dir_dign_1_titulo">Plano de parto</string>
+    <string name="dir_dign_1_selo">Preferências por escrito</string>
+    <string name="dir_dign_1_texto">A gestante tem o direito de apresentar um documento escrito com suas preferências para o parto (como posições para parir, métodos não farmacológicos de alívio da dor, contato pele a pele imediato), e a equipe deve respeitá-las ou justificar tecnicamente qualquer alteração necessária.</string>
+    <string name="dir_dign_2_titulo">Atendimento humanizado</string>
+    <string name="dir_dign_2_selo">Sem violência obstétrica</string>
+    <string name="dir_dign_2_texto">É direito ser tratada com respeito, dignidade, sem discriminação e livre de qualquer violência obstétrica, que envolve desde agressões verbais e físicas até procedimentos desnecessários ou realizados sem consentimento.</string>
+    <string name="dir_dign_3_titulo">Consentimento informado</string>
+    <string name="dir_dign_3_selo">Você pode recusar</string>
+    <string name="dir_dign_3_texto">Nenhum procedimento médico (como episiotomia, uso de ocitocina ou exames invasivos de rotina) pode ser feito sem que a equipe explique claramente os riscos, benefícios e alternativas, cabendo à gestante aceitá-los ou recusá-los.</string>
+
+    <!-- Tema: vínculo -->
+    <string name="dir_vinc_titulo">Vínculo com a Maternidade e Atendimento</string>
+    <string name="dir_vinc_desc">Maternidade, vaga e alívio da dor</string>
+    <string name="dir_vinc_1_titulo">Acesso a alívio da dor</string>
+    <string name="dir_vinc_1_selo">Anestesia e outros métodos</string>
+    <string name="dir_vinc_1_texto">Todos os estabelecimentos de saúde devem disponibilizar meios e recursos (inclusive anestésicos e métodos não farmacológicos, como chuveiro, bola, massagem) para o alívio da dor durante o trabalho de parto.</string>
+    <string name="dir_vinc_2_titulo">Vínculo prévio</string>
+    <string name="dir_vinc_2_selo">Lei nº 11.634/2007</string>
+    <string name="dir_vinc_2_texto">A gestante no SUS tem o direito de conhecer e ser vinculada antecipadamente à maternidade na qual vai dar à luz.</string>
+    <string name="dir_vinc_3_titulo">Vaga garantida</string>
+    <string name="dir_vinc_3_selo">Transferência segura</string>
+    <string name="dir_vinc_3_texto">O sistema de saúde deve assegurar vaga de internação e transferência segura caso a unidade vinculada não tenha condições de atendimento no momento.</string>
+
+    <!-- Tema: pós-parto -->
+    <string name="dir_pos_titulo">Pós-Parto e Bebê</string>
+    <string name="dir_pos_desc">Amamentação, registro e prontuário</string>
+    <string name="dir_pos_1_titulo">Alojamento conjunto e amamentação</string>
+    <string name="dir_pos_1_selo">Primeira hora de vida</string>
+    <string name="dir_pos_1_texto">O bebê tem o direito de permanecer junto à mãe desde o nascimento (salvo necessidade médica) e a amamentação em livre demanda deve ser estimulada logo na primeira hora de vida.</string>
+    <string name="dir_pos_2_titulo">Registro civil no hospital</string>
+    <string name="dir_pos_2_selo">Desde 2015</string>
+    <string name="dir_pos_2_texto">Desde 2015, os hospitais e maternidades possuem postos ou mecanismos para realizar o registro de nascimento do bebê antes da alta.</string>
+    <string name="dir_pos_3_titulo">Acesso ao prontuário</string>
+    <string name="dir_pos_3_selo">Cópia integral</string>
+    <string name="dir_pos_3_texto">A mulher tem o direito de requerer e obter uma cópia integral do seu prontuário médico e do cartão de acompanhamento.</string>
+
+    <!-- 08 Apoio -->
+    <string name="apo_titulo">Apoio</string>
+    <string name="apo_apoio">Converse com outras mulheres que estão passando pelo mesmo momento que você.</string>
+    <string name="apo_seus_chats">Seus chats</string>
+    <string name="apo_descobrir">Descobrir chats</string>
+    <string name="apo_entrar">Entrar</string>
+    <string name="apo_sem_resultado">Nenhum chat encontrado para essa busca.</string>
+    <!--
+      Textos de exemplo copiados do protótipo. A equipe ainda precisa definir
+      os chats de verdade, e eles dependem de um servidor que o app não tem.
+    -->
+    <string name="apo_ex_nome">Nome do chat</string>
+    <string name="apo_ex_ultima">Última mensagem do chat</string>
+    <string name="apo_ex_hora">00:00</string>
+    <string name="apo_ex_participantes">Tema · 00 participantes</string>
+
+    <!-- 09 Perfil -->
+    <string name="per_titulo">Seu perfil</string>
+    <string name="per_editar">Editar perfil</string>
+    <string name="per_procura">O que você procura aqui</string>
+    <string name="per_meus_dados">Meus dados</string>
+    <string name="per_notificacoes">Notificações</string>
+    <string name="per_privacidade">Privacidade e segurança</string>
+    <string name="per_ajuda">Ajuda e contato</string>
+    <string name="per_sair">Sair da conta</string>
+    <string name="per_sem_nome">Sua conta</string>
+
+    <!-- Editar perfil -->
+    <string name="edi_titulo">Editar perfil</string>
+    <string name="edi_nome">Nome</string>
+    <string name="edi_cidade">Cidade</string>
+    <string name="edi_momento">Momento</string>
+    <string name="edi_filhos">Filhos</string>
+    <string name="edi_procura">O que você procura aqui</string>
+    <string name="edi_salvar">Salvar alterações</string>
+    <string name="edi_cancelar">Cancelar</string>
+</resources>
